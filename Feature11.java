@@ -1,2 +1,3 @@
-class Feature1{
+class Feature11{
+int n;
 }
