@@ -1,2 +1,3 @@
-class Feature1{
+class Feature12{
+String name;
 }
