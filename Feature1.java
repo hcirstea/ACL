@@ -1,3 +1,3 @@
 class Feature1{
- Fetaure5 f5;
+ Feature5 f5;
 }
