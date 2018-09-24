@@ -1,0 +1,6 @@
+class Diff{
+
+int number;
+
+}
+
